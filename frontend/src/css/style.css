@@ -1,0 +1,134 @@
+.inline {
+  display: inline;
+}
+
+.border {
+  border: solid;
+  border-width: 4px;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.24);
+}
+
+.nichtRund {
+  border-radius: 0px !important;
+}
+
+.bg-info {
+  background-color: rgb(43, 102, 192) !important;
+}
+
+body {
+  background-color: rgb(206, 206, 206);
+  font-size: 1rem;
+}
+
+.grey {
+  background-color: rgba(255, 255, 255, 0.459);
+}
+
+.hintergrundFarbe {
+  background-color: rgb(206, 206, 206);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.black {
+  background-color: black;
+}
+
+.header {
+  background-color: rgb(97, 97, 97);
+}
+
+.hide {
+  display: none;
+}
+
+.inFront {
+  position: absolute;
+  z-index: 1;
+  background-color: rgb(206, 206, 206);
+  display: block;
+}
+
+.hintergrund {
+  background-color: rgba(0, 0, 0, 0.726);
+  width: 100%;
+  height: 100%;
+}
+
+.Icon {
+  font-size: 2.5rem;
+}
+
+.dad {
+  border: dashed;
+  border-width: 3px;
+  border-color: rgb(197, 197, 197);
+  border-radius: 0.1rem;
+  padding: 0.3rem;
+
+}
+
+.draganddopBild {
+  width: 100%;
+  height: 100%;
+}
+
+#dadPlatzhalter{
+  height: 35rem;
+}
+
+.gross{
+  font-size: 1.2rem !important;
+}
+
+.reallyRound{
+  height: 5rem;
+  width: 5rem !important;
+  border-radius: 10rem;
+  object-fit: cover;
+  object-position: top center;
+  margin: .3rem !important;
+  border: solid;
+  border-width: .2rem;
+  border-color: rgb(255, 255, 255);
+}
+
+.rechts{
+  float: right;
+}
+
+.text1{
+  white-space: pre-line;
+}
+
+.profilbild{
+  margin: 0px !important;
+  padding: 0px;
+  height: 4rem;
+  width: 4rem !important;
+}
+
+.p-0{
+  padding: 0px !important;
+}
+
+.navbut{
+  border-radius: 4%;
+  background-color:black;
+}
+
+.fehlermeld{
+  background-color: rgba(255, 71, 71, 0.74);
+  color: rgb(0, 0, 0);
+  margin:  20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  padding: 5px;
+}
