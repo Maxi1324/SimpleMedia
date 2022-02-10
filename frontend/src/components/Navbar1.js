@@ -174,7 +174,7 @@ export const Navbar1 = () => {
                 className="mr-1"
                 id="anders"
               />
-              anders
+              diverse
             </p>
           </div>
         </div>
